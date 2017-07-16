@@ -23,11 +23,10 @@ hs_err_pid*
 
 # Idea file
 out/
-.idea/
+
 
 # Others
 .DS_Store
-AlgorithmLab.iml
 
 
 
